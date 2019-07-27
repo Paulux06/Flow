@@ -1,5 +1,5 @@
 - pygame
 - pydub
 - gtts
-- pyaudio
+- pyaudio (with "sudo apt install libasound-dev portaudio19-dev libportaudiocpp0" if errors with setuptools)
 - snowboy
