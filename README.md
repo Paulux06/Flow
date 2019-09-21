@@ -10,3 +10,5 @@ You have just to download with 'Clone or download', to install a hundred of depe
 not easy ?
 
 Ok, I'll make a newer version (later) with a setup.sh or a installation file like that to make it easier !
+
+If you read this, please go to snowboy.kitt.ai and record your voice saying 'Flow', to have more differents voices and more powerful word recognition engine, thanks ! =)
