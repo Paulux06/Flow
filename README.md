@@ -5,7 +5,7 @@ this code is in Python, only snowboy is in c++
 /!\ Warning /!\
 Only work on Linux or MacOS, because I use snowboy for keywords detection and it's not available on Windows yet.
 
-You have just to download with 'Clone or download', to install a hundred of dependencies, and compile the snowboy code to run that =)
+You just have to download with 'Clone or download', to install a hundred of dependencies, and compile the snowboy code to run that =)
 
 not easy ?
 
